@@ -1,6 +1,8 @@
 # Solar System Simulation with 4 Planets
 This project is a simulation of our solar system with 4 planets - Earth, Mars, Mercury, and Venus. It was created using Pygame, a Python library for game development. The simulation takes into account the gravitational forces between the planets and the sun, and animates their orbits over time.
 
+![Application Output GIF](Planets.gif)
+
 ## Requirements
 - Pygame
 
